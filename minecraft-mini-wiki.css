@@ -59,7 +59,40 @@ li a:hover {
     font-family: 'Open Sans';
 }
 
-.read-more {
+.first-post-read-more {
+    margin-top: 20px;
+    margin-left: 80px;
+    margin-right: 80px;
+    text-align: justify;
+    font-size: 18px;
+    line-height: 28px;
+    font-family: 'Open Sans';
+    color: #74cfdf;
+    text-decoration: none;
+}
+
+/* This is the end of the homepage and the start of the news page */
+
+.pirates-post-header {
+    margin-top: 40px;
+    margin-left: 80px;
+}
+
+.pirates-post-img {
+    margin-left: 80px;
+}
+
+.pirates-post-content {
+    margin-top: 20px;
+    margin-left: 80px;
+    margin-right: 80px;
+    text-align: justify;
+    font-size: 18px;
+    line-height: 28px;
+    font-family: 'Open Sans';
+}
+
+.pirates-read-more {
     margin-top: 20px;
     margin-left: 80px;
     margin-right: 80px;
