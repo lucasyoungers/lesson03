@@ -105,3 +105,12 @@ li a:hover {
 }
 
 /* This is the end of the news page and the start of the recipes page. */
+
+.recipes-header {
+    margin-top: 40px;
+    margin-left: 80px;
+}
+
+.recipes-table {
+    margin-left: 80px;
+}
