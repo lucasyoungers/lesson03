@@ -1,6 +1,6 @@
-header {
+h1, h2, h3 {
     font-family: 'Economica';
-    font-size: 20px;
+    font-size: 30px;
 }
 
 .center {
@@ -34,4 +34,39 @@ li a {
 
 li a:hover {
     background-color: #111;
+}
+
+.first-post {
+    width: auto;
+}
+
+.first-post-header {
+    margin-top: 40px;
+    margin-left: 80px;
+}
+
+.first-post-img {
+    margin-left: 40px;
+}
+
+.first-post-content {
+    margin-top: 20px;
+    margin-left: 80px;
+    margin-right: 80px;
+    text-align: justify;
+    font-size: 18px;
+    line-height: 28px;
+    font-family: 'Open Sans';
+}
+
+.read-more {
+    margin-top: 20px;
+    margin-left: 80px;
+    margin-right: 80px;
+    text-align: justify;
+    font-size: 18px;
+    line-height: 28px;
+    font-family: 'Open Sans';
+    color: #74cfdf;
+    text-decoration: none;
 }
