@@ -3,6 +3,15 @@ h1, h2, h3 {
     font-size: 30px;
 }
 
+h4 {
+    font-family: 'Economica';
+    font-size: 22px;
+}
+
+img {
+    margin-left: 3px;
+}
+
 .center {
     display: block;
     margin-left: auto;
@@ -108,7 +117,7 @@ li a:hover {
 
 .recipes-header {
     margin-top: 40px;
-    margin-left: 80px;
+    margin-left: 86px;
 }
 
 .recipes-table {
