@@ -114,3 +114,28 @@ li a:hover {
 .recipes-table {
     margin-left: 80px;
 }
+
+/* This is the end of the recipes page and the start of the about page. */
+
+.about-post {
+    width: auto;
+}
+
+.about-post-header {
+    margin-top: 40px;
+    margin-left: 80px;
+}
+
+.about-post-img {
+    margin-left: 40px;
+}
+
+.about-post-content {
+    margin-top: 20px;
+    margin-left: 80px;
+    margin-right: 80px;
+    text-align: justify;
+    font-size: 18px;
+    line-height: 28px;
+    font-family: 'Open Sans';
+}
