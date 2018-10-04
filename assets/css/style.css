@@ -12,6 +12,20 @@ img {
     margin-left: 3px;
 }
 
+button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 26px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 80px;
+}
+
+more {display: none;}
+
 .center {
     display: block;
     margin-left: auto;
